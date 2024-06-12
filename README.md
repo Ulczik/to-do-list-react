@@ -4,7 +4,7 @@ This repository presents **handy check list**. The application is flexible, so i
 
 ## Demo
 
-https://ulczik.github.io/To-Do-List/
+https://ulczik.github.io/to-do-list-react/
 
 ## Description
 
