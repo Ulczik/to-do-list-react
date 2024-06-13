@@ -17,9 +17,7 @@ function App() {
   return (
     <Main>
       <Header title="Lista zadań" />
-
       <Section title="Dodaj nowe zadanie" body={<Form />} />
-
       <Section
         title="Lista zadań"
         body={<Tasks tasks={tasks} hideDoneTasks={hideDoneTasks} />}
